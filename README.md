@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HunterKastner
 - 👀 I’m interested in learning programming and becoming a full stack developer!
-- 🌱 I’m currently learning Python and how to make Projects!
+- 🌱 I’m currently learning HTML, CSS, Java, and how to make Projects!
 - 💞️ I’m looking to collaborate with anyone that can help enrich my learning!
 - 📫 How to reach me Email: HwKastner@gmail.com
 - 😄 Pronouns: He/Him
